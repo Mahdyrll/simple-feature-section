@@ -11,7 +11,7 @@ export default {
     },
     extend: {
       screens: {
-        'mobile': '425px',
+        'mobile': '450px',
       },
       
       backgroundImage: {
