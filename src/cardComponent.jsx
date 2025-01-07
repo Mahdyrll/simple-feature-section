@@ -17,7 +17,7 @@ const Card = ({ Emoji, EmojiBg, Title, desc, Image }) => {
 
 export default function CardComponent() {
     return (
-        <div className='mt-5 mobile:px-40 px-6 sm:flex sm:mt-0'>
+        <div className='mt-5 px-[4rem] mobile:px-40 px-6 sm:flex sm:mt-0'>
             <Card
                 Emoji="✋"
                 EmojiBg="bg-[#FCEED8]"
