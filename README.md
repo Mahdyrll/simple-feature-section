@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://mahdyrll.github.io/simple-feature-section/">
       Demo
     </a>
     <span> | </span>
